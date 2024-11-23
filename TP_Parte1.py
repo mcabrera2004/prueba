@@ -1,4 +1,4 @@
-##### MARCO ####
+##### MARCOs ####
 # Programa para una agencia de venta de paquetes turisticos, el que lo usa es el empleado de la agencia
 
 import time
